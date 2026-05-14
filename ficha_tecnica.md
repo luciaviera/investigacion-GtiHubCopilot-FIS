@@ -114,6 +114,24 @@ Se usa el comando `tests`:
 #### Copilot Spaces
 [![Ver video de GitHub Copilot](https://img.youtube.com/vi/6pbdTiT-Pcg/0.jpg)](https://www.youtube.com/watch?v=6pbdTiT-Pcg)
 
+
+### 3. Pro para estudiantes
+
+1. Ir a configuración
+
+    ![alt text](imagenes/config.png)
+
+2. Ir a la seccion de beneficios educativos dentro de pago y licencias
+
+    ![alt text](imagenes/beneficiosEd.png)
+
+4. Iniciar solicitud para obtener los beneficios educativos de GitHub (entre ellos Copilot Pro) 
+
+    ![alt text](imagenes/soliciatBeneficio.png)
+    
+    En esta se va a solicitar que envies comprobantes de que sos un estudiante activo.
+    Para la universidad ORT estos comprobantes se pueden obtener desde el sitio de Gestión.
+
 ## 3. Recomendaciones de uso
 Para aprovechar GitHub Copilot es importante utilizarlo como una herramienta para el  desarrollo y no como un reemplazo del criterio propio del programador.
 
