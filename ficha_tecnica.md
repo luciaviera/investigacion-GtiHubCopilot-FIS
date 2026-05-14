@@ -1,0 +1,1 @@
+# Ficha Técnica: GitHub Copilot
