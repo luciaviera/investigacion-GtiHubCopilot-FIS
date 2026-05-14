@@ -68,25 +68,25 @@ Como algunas funcionalidades de GitHub Copilot requieren planes pagos o acceso e
 #### Inline Suggestions  
 Se escribe un comentario describiendo una función y Copilot interpreta el comentario, el contexto del archivo, y propone una implementación. El desarrollador puede aceptar `Tab` o aceptar parcialmente `CTRL`+`→`, ver distintas sugerencias (colocando el mouse sobre la implementación sugerida y desplazándote entre las soluciones), modificar o rechazar la sugerencia.
 Ejemplo:
-![comentario vs code](inline_comment.png)
+![comentario vs code](imagenes/inline_comment.png)
 Copilot puede sugerir algo como:
-![sugerencia de implementación vs code](inline_code.png)
+![sugerencia de implementación vs code](imagenes/inline_code.png)
 
 #### Inline Chat
 Seleccionas una función y abrís el inline chat con `CTRL` + `I` o con click derecho y seleccionando la opción *Open Inline Copilot*.
 A diferencia del chat lateral, aparece directamente sobre el código seleccionado. Permite pedirle a Copilot acciones rápidas, como explicar una función, refactorizarla o generar tests.
 Ejemplo:
-![inline chat](inline_chat.png)
+![inline chat](imagenes/inline_chat.png)
 
 ##### Para explicación de código
 Se usa el comando `/explain` y se obtiene lo siguiente:
-![inline explain](inline_explain.png)
+![inline explain](imagenes/inline_explain.png)
 
 ##### Para generación de tests
 Se generan propuestas de tests unitarios. Esto no significa que los tests sean automáticamente correctos, pero ayuda a acelerar el proceso y a pensar casos que deberían verificarse.
 
 Se usa el comando `tests`:
-![inline tests](inline_tests.png)
+![inline tests](imagenes/inline_explain.png)
 
 
 ### 2. Demostraciones de funciones pagas
