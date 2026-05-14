@@ -69,6 +69,7 @@ Como algunas funcionalidades de GitHub Copilot requieren planes pagos o acceso e
 Se escribe un comentario describiendo una función y Copilot interpreta el comentario, el contexto del archivo, y propone una implementación. El desarrollador puede aceptar `Tab` o aceptar parcialmente `CTRL`+`→`, ver distintas sugerencias (colocando el mouse sobre la implementación sugerida y desplazándote entre las soluciones), modificar o rechazar la sugerencia.
 Ejemplo:
 ![comentario vs code](imagenes/inline_comment.png)
+
 Copilot puede sugerir algo como:
 ![sugerencia de implementación vs code](imagenes/inline_code.png)
 
